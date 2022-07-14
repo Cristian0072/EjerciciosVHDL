@@ -1,0 +1,29 @@
+Command line:
+   FlipFlop_T_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50107
+
+Wed Jul 13 21:35:43 2022
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5153.6 Meg
+
+ Total Signals          : 5
+ Total Nets             : 5
+ Total Signal Drivers   : 2
+ Total Blocks           : 4
+ Total Primitive Blocks : 4
+ Total Processes        : 2
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 383
+Total Line Count : 4
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 5153.6 Meg
+
+Wed Jul 13 21:35:50 2022
+

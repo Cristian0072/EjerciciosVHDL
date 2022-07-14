@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="Ejercicios.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Contador.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Contador.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Contador.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ContadorAscendente_Descendente.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ContadorAscendente_Descendente.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ContadorAscendente_Descendente.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ContadorSecuencia.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ContadorSecuencia.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ContadorSecuencia.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ContadorSecuencial_0_7.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ContadorSecuencial_0_7.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ContadorSecuencial_0_7.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Contador_Ascendente_Descendente.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Contador_Ascendente_Descendente.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Contador_Ascendente_Descendente.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Controlador_0_9.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Controlador_0_9.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Controlador_0_9.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Cronometro.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Cronometro.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Cronometro.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Cronometro_0_245.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Cronometro_0_245.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Cronometro_0_245.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DiagramaEstados.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="DiagramaEstados.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="DiagramaEstados.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DiagramaEstados_4.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="DiagramaEstados_4.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="DiagramaEstados_4.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="FlipFlop_JK.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="FlipFlop_JK.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="FlipFlop_JK.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="FlipFlop_JK_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="FlipFlop_JK_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="FlipFlop_JK_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="FlipFlop_T.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="FlipFlop_T.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="FlipFlop_T.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="FlipFlop_T_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Registro_4Bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Registro_4Bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Registro_4Bits.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Registro_DesplazamientoSerie.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Registro_DesplazamientoSerie.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Registro_DesplazamientoSerie.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Semaforo.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Semaforo.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Semaforo.xst"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1657766135" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1657766135">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1657810366" xil_pn:in_ck="-2849209396526729080" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1657810366">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputChanged"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+    <transform xil_pn:end_ts="1657810366" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="3606906797337162611" xil_pn:start_ts="1657810366">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1657810366" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="9110762229470463441" xil_pn:start_ts="1657810366">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1657766135" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="5886221148860426083" xil_pn:start_ts="1657766135">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1657810366" xil_pn:in_ck="-2849209396526729080" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1657810366">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputChanged"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+    <transform xil_pn:end_ts="1657810371" xil_pn:in_ck="-2849209396526729080" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-185933777112804567" xil_pn:start_ts="1657810366">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputChanged"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+    <transform xil_pn:end_ts="1657810371" xil_pn:in_ck="5098105152146660317" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-8332516693686198474" xil_pn:start_ts="1657810371">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputChanged"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+  </transforms>
+
+</generated_project>

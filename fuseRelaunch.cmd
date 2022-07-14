@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/CEAS/Documents/EjerciciosVHDL/Ejercicios/FlipFlop_JK_isim_beh.exe" -prj "C:/Users/CEAS/Documents/EjerciciosVHDL/Ejercicios/FlipFlop_JK_beh.prj" "work.FlipFlop_JK" 
